@@ -65,9 +65,9 @@ Browsing habits are evenly split across all four frequency levels (~24–26% eac
 ![Browsing Frequency](https://github.com/rajatgusain17/Market-Basket-Analysis-with-Python---Snapdeal/blob/main/Browsing%20Frequency.png?raw=true)
 
 ### Shopping Satisfaction Levels
-*(screenshot pending — satisfaction centers around the midpoint, mean ~3.0/5, indicating a largely neutral customer base)*
+Satisfaction centers around the midpoint, mean ~3.0/5, indicating a largely neutral customer base
 
-![Shopping Satisfaction](images/satisfaction_levels.png)
+![Shopping Satisfaction](https://github.com/rajatgusain17/Market-Basket-Analysis-with-Python---Snapdeal/blob/main/Shopping%20Satisfaction.png?raw=true)
 
 ### Correlation Heatmap — Satisfaction vs. Recommendation Metrics
 Recommendation helpfulness, rating accuracy, and recommendation frequency all show near-zero correlation with shopping satisfaction — none of these factors meaningfully drive it on their own.
