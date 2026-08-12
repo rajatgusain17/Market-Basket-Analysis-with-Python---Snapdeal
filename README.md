@@ -46,6 +46,34 @@ A customer insights analysis project simulating the role of a Customer Insights 
 - seaborn, matplotlib (visualization)
 - scikit-learn (K-Means clustering, StandardScaler)
 
+
+## Visualizations
+
+### Age Distribution
+Customer ages span 13–67, with no single dominant bracket — a broad, non-concentrated demographic base.
+
+![Age Distribution](images/age_distribution.png)
+
+### Purchase Categories
+*(screenshot pending — most purchased: Clothing and Fashion, followed by Beauty and Personal Care, Home and Kitchen)*
+
+![Purchase Categories](images/purchase_categories.png)
+
+### Browsing Frequency Distribution
+Browsing habits are evenly split across all four frequency levels (~24–26% each) — no dominant browsing style.
+
+![Browsing Frequency](images/browsing_frequency_pie.png)
+
+### Shopping Satisfaction Levels
+*(screenshot pending — satisfaction centers around the midpoint, mean ~3.0/5, indicating a largely neutral customer base)*
+
+![Shopping Satisfaction](images/satisfaction_levels.png)
+
+### Correlation Heatmap — Satisfaction vs. Recommendation Metrics
+Recommendation helpfulness, rating accuracy, and recommendation frequency all show near-zero correlation with shopping satisfaction — none of these factors meaningfully drive it on their own.
+
+![Correlation Heatmap](images/correlation_heatmap.png)                 
+
 ## Recommendations
 1. Invest in recommendation *relevance* (using purchase/browsing history) over recommendation frequency
 2. Address pricing transparency and shipping costs directly — a bigger lever for satisfaction than the recommendation engine
