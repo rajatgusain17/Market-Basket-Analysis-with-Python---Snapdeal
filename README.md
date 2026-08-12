@@ -57,12 +57,12 @@ Customer ages span 13–67, with no single dominant bracket — a broad, non-con
 ### Purchase Categories
 Most purchased: Clothing and Fashion, followed by Beauty and Personal Care, Home and Kitchen
 
-![Purchase Categories](https://github.com/rajatgusain17/Market-Basket-Analysis-with-Python---Snapdeal/blob/main/Product%20Categories.png?raw=true))
+![Purchase Categories](https://github.com/rajatgusain17/Market-Basket-Analysis-with-Python---Snapdeal/blob/main/Product%20Categories.png?raw=true)
 
 ### Browsing Frequency Distribution
 Browsing habits are evenly split across all four frequency levels (~24–26% each) — no dominant browsing style.
 
-![Browsing Frequency]())
+![Browsing Frequency](https://github.com/rajatgusain17/Market-Basket-Analysis-with-Python---Snapdeal/blob/main/Browsing%20Frequency.png?raw=true)
 
 ### Shopping Satisfaction Levels
 *(screenshot pending — satisfaction centers around the midpoint, mean ~3.0/5, indicating a largely neutral customer base)*
