@@ -62,7 +62,7 @@ Most purchased: Clothing and Fashion, followed by Beauty and Personal Care, Home
 ### Browsing Frequency Distribution
 Browsing habits are evenly split across all four frequency levels (~24–26% each) — no dominant browsing style.
 
-![Browsing Frequency](images/browsing_frequency_pie.png)
+![Browsing Frequency]())
 
 ### Shopping Satisfaction Levels
 *(screenshot pending — satisfaction centers around the midpoint, mean ~3.0/5, indicating a largely neutral customer base)*
