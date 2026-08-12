@@ -1,5 +1,11 @@
 # Snapdeal Customer Purchasing Behavior & Recommendation Analysis
 
+
+## Google Collab Notebook        
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1yoC6q6WJWUY8UkQPFnOyEXeGkgYXiUrU?usp=sharing)
+
+
+
 ## Overview
 A customer insights analysis project simulating the role of a Customer Insights Analyst at Snapdeal, a large e-commerce platform. The goal was to understand customer purchasing behavior, product affinities, and satisfaction drivers using survey data, and translate findings into actionable business recommendations for personalization, promotions, and inventory strategy.
 
@@ -72,13 +78,17 @@ Satisfaction centers around the midpoint, mean ~3.0/5, indicating a largely neut
 ### Correlation Heatmap — Satisfaction vs. Recommendation Metrics
 Recommendation helpfulness, rating accuracy, and recommendation frequency all show near-zero correlation with shopping satisfaction — none of these factors meaningfully drive it on their own.
 
-![Correlation Heatmap](https://github.com/rajatgusain17/Market-Basket-Analysis-with-Python---Snapdeal/blob/main/Coorelation%20Heatmap.png?raw=true)                 
+![Correlation Heatmap](https://github.com/rajatgusain17/Market-Basket-Analysis-with-Python---Snapdeal/blob/main/Coorelation%20Heatmap.png?raw=true)     
+
+
 
 ## Recommendations
 1. Invest in recommendation *relevance* (using purchase/browsing history) over recommendation frequency
 2. Address pricing transparency and shipping costs directly — a bigger lever for satisfaction than the recommendation engine
 3. Target the two distinct At-Risk customer sub-clusters with different engagement strategies
 4. Use behavior-based (not demographic) segmentation for future personalized promotions
+
+
 
 ## Author
 [RAJAT GUSAIN] 
