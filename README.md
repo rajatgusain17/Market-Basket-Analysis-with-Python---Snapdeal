@@ -72,7 +72,7 @@ Satisfaction centers around the midpoint, mean ~3.0/5, indicating a largely neut
 ### Correlation Heatmap — Satisfaction vs. Recommendation Metrics
 Recommendation helpfulness, rating accuracy, and recommendation frequency all show near-zero correlation with shopping satisfaction — none of these factors meaningfully drive it on their own.
 
-![Correlation Heatmap](images/correlation_heatmap.png)                 
+![Correlation Heatmap](https://github.com/rajatgusain17/Market-Basket-Analysis-with-Python---Snapdeal/blob/main/Coorelation%20Heatmap.png?raw=true)                 
 
 ## Recommendations
 1. Invest in recommendation *relevance* (using purchase/browsing history) over recommendation frequency
