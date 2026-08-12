@@ -52,7 +52,7 @@ A customer insights analysis project simulating the role of a Customer Insights 
 ### Age Distribution
 Customer ages span 13–67, with no single dominant bracket — a broad, non-concentrated demographic base.
 
-![Age Distribution](images/age_distribution.png)
+![Age Distribution](https://github.com/rajatgusain17/Market-Basket-Analysis-with-Python---Snapdeal/blob/main/Age%20Distribution.png?raw=true)
 
 ### Purchase Categories
 *(screenshot pending — most purchased: Clothing and Fashion, followed by Beauty and Personal Care, Home and Kitchen)*
